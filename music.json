@@ -86,6 +86,11 @@
           "bg": "https://www.bl.uk/britishlibrary/~/media/bl/global/uosh%20learning/recorded%20sound/collection%20items/av%20vas/hrsva33-ravi-shankar-gettyimages-84879803.jpg",
           "genre_img": "https://img.freepik.com/free-vector/hand-drawn-indie-music-illustration_23-2149676401.jpg?w=2000",
           "genre_name": "Indi"
+        },
+        "rock": {
+          "bg": "https://images6.alphacoders.com/812/thumb-1920-812030.jpg",
+          "genre_img": "https://cdn.wallpapersafari.com/72/0/wiGq38.png",
+          "genre_name": "Rock"
         }
       }
     ],
